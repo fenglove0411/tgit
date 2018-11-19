@@ -7,6 +7,11 @@ public class Apple {
 		System.out.println("热修复hot_fix");
 		System.out.println("热修复hot_fix");
 		System.out.println("热修复hot_fix");
+		System.out.println("热修复hot_fix");
+		System.out.println("热修复hot_fix");
+		System.out.println("热修复hot_fix");
+		System.out.println("热修复hot_fix");
+		System.out.println("热修复hot_fix");
 	}
 
 }
